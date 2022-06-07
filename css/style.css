@@ -473,3 +473,27 @@ a.instagram {
 
 .h2__nosotros {
   font-size: 5rem; }
+
+ol li {
+  color: #ffffef;
+  padding: 5px;
+  margin-left: 10px; }
+
+#disco2 a {
+  text-decoration: none;
+  color: #fffccb;
+  margin-left: 40%; }
+  #disco2 a:hover {
+    color: #8d0000;
+    font-weight: bold; }
+
+#disco1 a {
+  text-decoration: none;
+  color: #fffccb;
+  margin-left: 40%; }
+  #disco1 a:hover {
+    color: #8d0000;
+    font-weight: bold; }
+
+h3 {
+  padding: 20px; }

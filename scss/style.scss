@@ -108,3 +108,36 @@ a.instagram {
 .h2__nosotros{
     font-size: 5rem;
 }
+
+ol li{
+    color: $colorLetras;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+
+#disco2 a{
+    text-decoration: none;
+    color: $colorLinks;
+    margin-left: 40%;
+    &:hover{
+        color: $colorLinksHover;
+        font-weight: bold;
+    }
+    
+}
+
+#disco1 a{
+    text-decoration: none;
+    color: $colorLinks;
+    margin-left: 40%;
+    &:hover{
+        color: $colorLinksHover;
+        font-weight: bold;
+    }
+
+}
+
+h3{
+    padding: 20px;
+}
